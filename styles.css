@@ -1,0 +1,45 @@
+body {
+    font-family: 'Jersey M54', monospace; 
+    color: white; 
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em; 
+    margin-top: 50px; 
+}
+table {
+    width: auto; 
+    max-width: 800px; 
+    border-collapse: collapse; 
+    margin: 30px auto; 
+}
+th, td {
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    background-color: #A5B68D; 
+    border: 2px solid black; 
+}
+th {
+    color: white;
+    font-size: 1.5em; 
+}
+.white {
+    color: white; 
+}
+.teal {
+    color: teal; 
+}
+.special {
+    background-color: #597445; 
+    color: #FADFA1; 
+}
+.events p {
+    margin-top: 20px; 
+    color:#FADFA1
+}
